@@ -1,5 +1,5 @@
 {
-  "name": "luaparse",
+  "name": "cfx-luaparse",
   "version": "0.3.1",
   "description": "A Lua parser in JavaScript",
   "keywords": [
@@ -8,10 +8,9 @@
     "parser",
     "parsing"
   ],
-  "homepage": "https://fstirlitz.github.io/luaparse/",
-  "bugs": "https://github.com/fstirlitz/luaparse/issues",
+  "bugs": "https://github.com/banhammer/cfx-luaparse/issues",
   "license": "MIT",
-  "author": "Oskar Schöldström <public@oxy.fi> (http://www.oxy.fi/)",
+  "author": "BanHammer / Oskar Schöldström <public@oxy.fi> (http://www.oxy.fi/)",
   "files": [
     "README.md",
     "LICENSE",
@@ -25,7 +24,7 @@
   "man": "./docs/luaparse.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fstirlitz/luaparse.git"
+    "url": "https://github.com/banhammer/cfx-luaparse.git"
   },
   "scripts": {
     "test": "make qa",
