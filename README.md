@@ -2,6 +2,8 @@
 
 A Lua parser written in JavaScript, originally written by Oskar Schöldström for his bachelor's thesis at Arcada.
 
+Modified by BanHammer for support of CFX alterations.
+
 ## Installation
 
 Install through `npm install luaparse`.
